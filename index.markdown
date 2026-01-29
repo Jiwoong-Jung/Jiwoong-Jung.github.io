@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "My Awesome Blog"
+title: "나의 블로그"
 ---
 
 # Welcome to My Blog
